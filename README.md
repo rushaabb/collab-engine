@@ -1,7 +1,6 @@
 # collab-engine
 
-An app that helps builders find collaborators for side projects, hackathons, and startups.
-
+An app that helps creators find collaborators.
 ## MVP Scope
 
 The first version will do just a few things well:
