@@ -31,7 +31,8 @@
     "plugins": [
       "expo-router"
     ],
-    "scheme": "collabengine"
+    "scheme": "collabengine",
+    "sdkVersion": "52.0.0"
   }
 }
 
